@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuelStation.Web.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0a7cd517308fa190caff3a2fc6a775670593b15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6647cba7146901e8f8dadab2ba4d7c081c3ab523")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuelStation.Web.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuelStation.Web.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

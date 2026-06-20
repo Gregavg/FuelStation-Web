@@ -1,0 +1,2 @@
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Web\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Web\Client\obj\Debug\net7.0\staticwebassets.build.json

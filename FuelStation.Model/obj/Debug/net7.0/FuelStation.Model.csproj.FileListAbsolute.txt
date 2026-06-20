@@ -1,0 +1,15 @@
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\bin\Debug\net7.0\FuelStation.Model.deps.json
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\bin\Debug\net7.0\FuelStation.Model.runtimeconfig.json
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\bin\Debug\net7.0\FuelStation.Model.dll
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\bin\Debug\net7.0\FuelStation.Model.pdb
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.csproj.AssemblyReference.cache
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.AssemblyInfoInputs.cache
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.AssemblyInfo.cs
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.csproj.CoreCompileInputs.cache
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.sourcelink.json
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.dll
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\refint\FuelStation.Model.dll
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.pdb
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\FuelStation.Model.genruntimeconfig.cache
+C:\repos\FuelStation\FuelStation-Web\FuelStation.Model\obj\Debug\net7.0\ref\FuelStation.Model.dll
