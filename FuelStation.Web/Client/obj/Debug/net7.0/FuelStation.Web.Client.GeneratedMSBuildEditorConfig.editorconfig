@@ -1,0 +1,111 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = FuelStation.Web.Client
+build_property.RootNamespace = FuelStation.Web.Client
+build_property.ProjectDir = C:\repos\FuelStation\FuelStation-Web\FuelStation.Web\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\repos\FuelStation\FuelStation-Web\FuelStation.Web\Client
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Customers/CustomerDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Customers/CustomerEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Customers/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Employees/EmployeeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVtcGxveWVlRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Employees/EmployeeEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVtcGxveWVlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Employees/EmployeeList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVtcGxveWVlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Items/ItemDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Items/ItemEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Items/ItemList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Ledger/Ledger.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVkZ2VyXExlZGdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Ledger/LedgerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVkZ2VyXExlZGdlckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Shared/BootstrapButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJvb3RzdHJhcEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Shared/ShopTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BUaXRsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-daysfc56k8
+
+[C:/repos/FuelStation/FuelStation-Web/FuelStation.Web/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-40zfccmm90
